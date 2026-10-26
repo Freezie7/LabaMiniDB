@@ -1,0 +1,6 @@
+id:INT:PK;name:STRING;task:STRING;size:INT
+1;dataset 1;classification;70000
+2;dataset 2;classification;60000
+3;dataset 3;sentiment;50000
+4;dataset 4;regression;506
+5;dataset 5;detection;118000
